@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: biosamples-beta
+Version: 0.1
+Summary: A biosample API library
+Home-page: UNKNOWN
+Author: Luca Cherubin
+Author-email: luca.cherubin@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires: requests
+Requires: simplejson
